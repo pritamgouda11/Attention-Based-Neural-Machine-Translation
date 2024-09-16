@@ -39,7 +39,7 @@ The model is based on the attention mechanism described in:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/date-translation-attention.git
+   git clone https://github.com/pritamgouda11/Attention-Based-Neural-Machine-Translation.git
    ```
 
 2. Run train.ipnyb to get model.pth
